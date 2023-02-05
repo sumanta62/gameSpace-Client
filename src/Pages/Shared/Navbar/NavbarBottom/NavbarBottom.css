@@ -1,0 +1,16 @@
+.navbarBottomBG {
+  width: 90%;
+  height: 50px;
+  margin: auto;
+  margin-bottom: 20px;
+  color: white;
+  z-index: 40;;
+  height: 60px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(../../../../assets/images/bgColor2.jpg);
+}
+ul li a:hover {
+  color: yellow;
+}
